@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/English-B2_Intermediate-D7CCC8?style=for-the-badge&logo=language&logoColor=black" />
 </p>
 
-> **"Más que un programador, soy un arquitecto de soluciones."** > Desgloso problemas complejos en componentes lógicos manejables, desde sistemas de bajo nivel en C++ hasta interfaces modernas con Jetpack Compose.
+> [cite_start]**"Más que un programador, soy un arquitecto de soluciones."** > Graduado en Tecnologías de la Información y Ciencias Computacionales[cite: 7]. [cite_start]Desgloso problemas complejos en componentes lógicos manejables[cite: 9], desde sistemas de bajo nivel en C++ hasta interfaces modernas con Jetpack Compose.
 
 ---
 
@@ -13,10 +13,10 @@
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Mobile** | `Android Nativo (Kotlin / Jetpack Compose)` `Java` `React Native` |
+| **Mobile** | [cite_start]`Android Studio` `Kotlin` `Java` `React Native` [cite: 7, 11] |
 | **Frontend** | `HTML5` `CSS3 (Glassmorphism)` `JavaScript (Vanilla / ES6+)` |
-| **Backend & Data** | `C++` `.NET` `C#` `Python (FastAPI / Django)` `SQL & NoSQL` |
-| **Tools & Misc** | `Firebase` `Git/GitHub` `Power BI` `OBS Studio` `IARC Certified` |
+| **Backend & Data** | [cite_start]`C++` `.NET` `C#` `Python (FastAPI / Django)` `SQL & NoSQL` [cite: 11, 27, 28] |
+| **Tools & Misc** | [cite_start]`Firebase` `Git/GitHub` `Power BI` `OBS Studio` `IARC Certified` [cite: 11, 28, 29] |
 
 ---
 
@@ -24,14 +24,15 @@
 
 ### ☕ [ParDos: Zen Math Puzzle](https://www.korwork.org/pardos.html)
 Un rompecabezas lógico minimalista construido al **100% con Jetpack Compose**.  
+* **EN PUBLICACIÓN A GOOGLE PLAY STORE**
 * **Certificación Global IARC** (Febrero 2026) ✅
 * Diseño 'Juicy' enfocado en reducir la fatiga visual.
 * [Ver Sitio Oficial](https://www.korwork.org/pardos.html)
 
 ### 🏥 Serie ACIF (HealthTech)
-Desarrollo de aplicaciones móviles para el sector salud en colaboración con personal de enfermería.
+[cite_start]Desarrollo de aplicaciones móviles para el sector salud en colaboración con el departamento de enfermería de la UAA[cite: 8, 17].
 * **ACIF Hipertensión:** Control médico y gráficas de tendencia para presión arterial.
-* **ACIF Diabetes:** Gestión de niveles de glucosa y nutrición para pacientes clínicos.
+* [cite_start]**ACIF Diabetes:** Gestión de niveles de glucosa, medicación y nutrición para pacientes clínicos[cite: 16].
 
 ### 🛰️ [Premium Stream Layouts](https://stream.korwork.org/offline.html)
 Conjunto de escenas dinámicas para OBS Studio.
@@ -61,5 +62,5 @@ Conjunto de escenas dinámicas para OBS Studio.
 ---
 
 <p align="center">
-  <i>Curiosidad constante y adaptabilidad probada. 🚀</i>
+  [cite_start]<i>Curiosidad constante y adaptabilidad probada en entornos dinámicos[cite: 9]. 🚀</i>
 </p>
