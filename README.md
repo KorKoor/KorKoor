@@ -43,7 +43,6 @@ Integración de chat en vivo de Twitch vía WebSockets (TMI.js)
 
 📊 Estadísticas de Desarrollador
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KorKoor&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorKoor&layout=compact&theme=calm&langs_count=6" />
 </p>
 
