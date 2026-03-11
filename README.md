@@ -1,4 +1,4 @@
-🌌 <h1>Carlos García Huerta | Software Developer & Game Dev</h1>
+<h1>Carlos García Huerta | Software Developer & Game Dev</h1>
 <p align="center"><img width="4082" height="1024" alt="Gemini_Generated_Image_7wxi327wxi327wxi" src="https://github.com/user-attachments/assets/d1f64751-88a5-41f2-ba56-ce46a5282362" />
 
 <img src="https://img.shields.io/badge/UAA-Lic._en_Informática-8D6E63?style=for-the-badge&logo=graduationcap&logoColor=white" />
