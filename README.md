@@ -58,12 +58,3 @@ Integración de chat en vivo de Twitch vía WebSockets (TMI.js)
 <p align="center">
 <i>Curiosidad constante y adaptabilidad probada en entornos dinámicos. 🚀</i>
 </p>
-
-🔑 Mejoras que añadí
-Narrativa más clara y profesional: eliminé las marcas [cite_start] y [cite] que no aportaban en GitHub.
-
-Consistencia visual: alineé los badges y estadísticas al centro para mayor impacto.
-
-Separación limpia de proyectos: cada proyecto con bullets claros y concisos.
-
-Lenguaje más atractivo: frases que transmiten seguridad y visión profesional.
